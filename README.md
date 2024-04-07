@@ -1,7 +1,7 @@
 # Chingu & Coffee
 Chingu & Coffee is a Coffee shop website with: Home : About : Coffee Selections : Contact pages
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://chingucoffee.netlify.app/#home
 
 
 ## How It's Made:
